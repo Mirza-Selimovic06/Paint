@@ -1,0 +1,16 @@
+C:\Users\Mirza\Desktop\IT-145\Winforms\Paint Project\bin\Debug\net8.0-windows\Paint Project.exe
+C:\Users\Mirza\Desktop\IT-145\Winforms\Paint Project\bin\Debug\net8.0-windows\Paint Project.deps.json
+C:\Users\Mirza\Desktop\IT-145\Winforms\Paint Project\bin\Debug\net8.0-windows\Paint Project.runtimeconfig.json
+C:\Users\Mirza\Desktop\IT-145\Winforms\Paint Project\bin\Debug\net8.0-windows\Paint Project.dll
+C:\Users\Mirza\Desktop\IT-145\Winforms\Paint Project\bin\Debug\net8.0-windows\Paint Project.pdb
+C:\Users\Mirza\Desktop\IT-145\Winforms\Paint Project\obj\Debug\net8.0-windows\Paint_Project.Paint.resources
+C:\Users\Mirza\Desktop\IT-145\Winforms\Paint Project\obj\Debug\net8.0-windows\Paint Project.csproj.GenerateResource.cache
+C:\Users\Mirza\Desktop\IT-145\Winforms\Paint Project\obj\Debug\net8.0-windows\Paint Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirza\Desktop\IT-145\Winforms\Paint Project\obj\Debug\net8.0-windows\Paint Project.AssemblyInfoInputs.cache
+C:\Users\Mirza\Desktop\IT-145\Winforms\Paint Project\obj\Debug\net8.0-windows\Paint Project.AssemblyInfo.cs
+C:\Users\Mirza\Desktop\IT-145\Winforms\Paint Project\obj\Debug\net8.0-windows\Paint Project.csproj.CoreCompileInputs.cache
+C:\Users\Mirza\Desktop\IT-145\Winforms\Paint Project\obj\Debug\net8.0-windows\Paint Project.dll
+C:\Users\Mirza\Desktop\IT-145\Winforms\Paint Project\obj\Debug\net8.0-windows\refint\Paint Project.dll
+C:\Users\Mirza\Desktop\IT-145\Winforms\Paint Project\obj\Debug\net8.0-windows\Paint Project.pdb
+C:\Users\Mirza\Desktop\IT-145\Winforms\Paint Project\obj\Debug\net8.0-windows\Paint Project.genruntimeconfig.cache
+C:\Users\Mirza\Desktop\IT-145\Winforms\Paint Project\obj\Debug\net8.0-windows\ref\Paint Project.dll
